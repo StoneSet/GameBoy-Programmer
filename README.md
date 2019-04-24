@@ -1,18 +1,27 @@
-# GameBoy-Programmer
-The USB gameboy Programmer (In build)
+# Gameboy USB programmer
+## The Eagle project of the gameboy programmer project
 
 
-## This project is a redesign of the already existing project available at this address:
+**(c) Found the entire project here : http://reinerziegler.de.mirrors.gg8.se/readplus.htm**
 
-** http://reinerziegler.de/readplus.htm#GB_Flasher **
+## Included:
+1. All needed files to modify the project
+2. BOM
 
-1. There are two versions (USB and RS232), the one I reproduced is the USB version.
+## Some img's :
 
-2. I have no rights to the "Reinerziegler" project, I just make the PCB design accessible to everyone. There are two versions of this project (Fritzing and Altium 2017)
+![alt text](https://raw.githubusercontent.com/StoneSet/GameBoy-USB-Programmer/master/img/schematic.png "Schema")
 
-I took the schemas as the proposed site, to redo them in professional software to allow the creation of a PCB prototyping more simply.
+------
 
+![alt text](https://raw.githubusercontent.com/StoneSet/GameBoy-USB-Programmer/master/img/pcb_render_top.png "Board") 
+![alt text](https://raw.githubusercontent.com/StoneSet/GameBoy-USB-Programmer/master/img/pcb_render_bot.png "Board")
+ 
 
-WIP, last update 11/12/17
+![alt text](http://reinerziegler.de.mirrors.gg8.se/GB-Flasher/photos/photo_03.jpg "PCB")
 
-_ Copyright: http://reinerziegler.de _
+# 
+
+(c) Reiner Ziegler & StoneSet - http://reinerziegler.de.mirrors.gg8.se/readplus.htm - http://stoneset.github.io/ (2019)
+
+plz do not steal, i'm not the owner of this project, i'm only the owner of this pcb. Have fun !
